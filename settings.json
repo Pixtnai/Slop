@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "stephenooo.aternos.me:22090",
+    "ip": "stephenooo.aternos.me",
     "port": 22090,
     "version": "",
     "try-creative": false
